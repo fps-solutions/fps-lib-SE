@@ -8,6 +8,9 @@ npm install @mikezimm/fps-lib-se@1.0.1
 
 # Changelog
 
+## 1.0.4 - 2024-09-24 - Initial setup
+- role back target from es2019 to es6
+
 ## 1.0.1 - 2024-09-24 - Initial setup
 - just republished
 
