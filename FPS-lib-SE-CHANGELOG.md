@@ -4,11 +4,11 @@ npm run build ; npm publish --access=public; npm version patch
 npm version major/minor/patch
 npm publish --access=public
 
-npm install @mikezimm/fps-lib-se@1.0.5
+npm install @mikezimm/fps-lib-se@1.0.7
 
 # Changelog
 
-## 1.0.6 - 2024-09-24 - Initial setup
+## 1.0.7 - 2024-09-24 - Initial setup
 - change to "target": "es5",
 
 ## 1.0.5 - 2024-09-24 - Initial setup
