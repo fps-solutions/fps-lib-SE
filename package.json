@@ -1,6 +1,6 @@
 {
   "name": "@mikezimm/fps-lib-se",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library of reusable react components migrated from fps-library-v2",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -38,7 +38,6 @@
     "not dead"
   ],
   "devDependencies": {
-
     "@types/webpack": "^5.28.0",
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "@typescript-eslint/parser": "^5.36.2",
