@@ -4,7 +4,7 @@ npm run build ; npm publish --access=public; npm version patch
 npm version major/minor/patch
 npm publish --access=public
 
-npm install @mikezimm/fps-lib-se@1.0.1
+npm install @mikezimm/fps-lib-se@1.0.5
 
 # Changelog
 
