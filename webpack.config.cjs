@@ -42,8 +42,7 @@ module.exports = {
       type: 'asset/resource'
     }]
   },
-  externals: { // Read webpack documentation - do not want to bundle these into the package
-    // "@mikezimm/fps-js": "*",
+  externals: {
   },
   devServer: {
     compress: true,
